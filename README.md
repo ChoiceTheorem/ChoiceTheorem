@@ -1,13 +1,17 @@
- 👋 Hi, I’m @ChoiceTheorem
-👀 I’m interested in ...
+ 👋 Hi, I’m @ChoiceTheorem 
+ 
+ 👀 I’m interested in ...
 - Minecraft modding
 - Python programming
 - Medical technology
+
 🌱 I’m currently learning ...
 - Python
 - Java
+
 💞️ I’m looking to collaborate on ...
 - Nothing
+
 📫 How to reach me ...
 - ChoiceTheorem#6214 on discord
 
